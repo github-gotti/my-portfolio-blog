@@ -1,0 +1,19 @@
+{
+  "title": "はじめての投稿",
+  "date": "2025-04-21T00:00:00.000Z",
+  "description": "Contentlayerで最初のMarkdownブログ",
+  "body": {
+    "raw": "\nこれは最初のブログ記事です 🎉\n",
+    "html": "<p>これは最初のブログ記事です 🎉</p>"
+  },
+  "_id": "posts/hello-world.md",
+  "_raw": {
+    "sourceFilePath": "posts/hello-world.md",
+    "sourceFileName": "hello-world.md",
+    "sourceFileDir": "posts",
+    "contentType": "markdown",
+    "flattenedPath": "posts/hello-world"
+  },
+  "type": "Post",
+  "slug": "hello-world"
+}
